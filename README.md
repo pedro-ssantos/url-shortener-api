@@ -25,13 +25,13 @@ I am starting this as my first project at 100CodeChallenge.
 
 #### Day 1 [03.07.22]
 
-  [x] Docker enviroment.
-  [x] NestJS scaffold.
-  [x] Setup TypeORM.
+  - [x] Docker enviroment.
+  - [x] NestJS scaffold.
+  - [x] Setup TypeORM.
   
 #### Day 2 [04.07.22]
 
-  [ ] User Tests.
-  [ ] Link Tests.
-  [ ] User Module.
-  [ ] Link Module.
+  - [ ] User Tests.
+  - [ ] Link Tests.
+  - [ ] User Module.
+  - [ ] Link Module.
